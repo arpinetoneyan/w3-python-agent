@@ -1,0 +1,5 @@
+headless: false
+slow_mo_ms: 250
+max_attempts_per_question: 1
+sections:
+  - all
